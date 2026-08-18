@@ -1,1 +1,0 @@
-This dataset represents a clustering task involving 3 Iris species with 50 samples each, alongside physical properties for each flower. The objective is to predict the flower classes using K-means and Hierarchical Clustering methods.
